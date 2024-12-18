@@ -8,7 +8,7 @@ It generates Evm-compatible addresses using cryptographic operations.
 - Saves generated addresses to output folder.
 - Fast and efficient.
 
-![Result Image](output/result.jpg)
+![Result Image](output/Result.jpg)
 
 ## Requirements
 
